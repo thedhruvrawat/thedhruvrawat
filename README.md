@@ -3,7 +3,7 @@
 ## I'm a Web Developer!
 - 🔭 I’m currently a student at BITS, Pilani
 - 🌱 I’m currently learning TensorFlow
-- 🥅 2020 Goals: Start contributing to open source
+- 🥅 Future Goals: Start contributing to open source
 - ⚡ Fun fact: I love old Bollywood songs!
 
 ### Connect with me:
@@ -19,10 +19,17 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" alt="Dhruv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedhruvrawat&show_icons=true&hide=stars,issues&count_private=true&show_icons=true" />
+    <img align="left" alt="Dhruv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedhruvrawat&show_icons=true&hide=stars,issues&count_private=true&show_icons=true&hide_border=true" />
 </a>
+
+<br />
+
+--- 
+
+<br />
+
 <a href="https://github.com/anuraghazra/convoychat">
-    <img align="left" alt="Dhruv's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhruvrawat&layout=compact&show_icons=truehide_border=true" />
+    <img align="left" alt="Dhruv's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhruvrawat&show_icons=true&hide_border=true" />
 </a>
 
 [gmail]: mailto:dhruv.noida175@gmail.com
