@@ -7,13 +7,9 @@
 
 ### ⚡ Technical Skills:
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-React-161616?style=flat-square&logo=react&logoColor=00d9ff"> <br/>
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat-square&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat-square&logo=python&logoColor=white"> <br />
-<img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat-square">
-<img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square"> <img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r&logoColor=5b8cc4"> <br />
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/thedhruvrawat)](https://github.com/thedhruvrawat) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/thedhruvrawat)](https://github.com/thedhruvrawat)
-<br />
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=eed718"> <img src="https://img.shields.io/badge/-React-161616?style=flat-square&logo=react&logoColor=00d9ff"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat-square&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python%203-black?style=flat-square&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-Problem%20Solving-ffa804?style=flat-square"> <img src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square"> <img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r&logoColor=5b8cc4"> [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/thedhruvrawat)](https://github.com/thedhruvrawat) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/thedhruvrawat)](https://github.com/thedhruvrawat)
 
+<br />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" alt="Dhruv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedhruvrawat&show_icons=true&hide=stars,issues&count_private=true&show_icons=true&hide_border=true" />
