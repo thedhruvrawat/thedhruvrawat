@@ -14,7 +14,6 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/thedhruvrawat)](https://github.com/thedhruvrawat) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/thedhruvrawat)](https://github.com/thedhruvrawat)
 <br />
 
----
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" alt="Dhruv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thedhruvrawat&show_icons=true&hide=stars,issues&count_private=true&show_icons=true&hide_border=true" />
@@ -23,7 +22,9 @@
     <img align="left" alt="Dhruv's Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhruvrawat&show_icons=true&hide_border=true&layout=compact" />
 </a>
 
----
+<br />
+<br /><br /><br /><br /><br /><br />
+
 
 ### 📫 Connect with me:
 
