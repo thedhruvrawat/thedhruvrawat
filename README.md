@@ -10,9 +10,9 @@
 
 ## 🌐 Connect with me
 
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="website" width="22px" src="https://www.vhv.rs/dpng/d/244-2448537_spartan-png-world-wide-web-icon-png-transparent.png" />][website]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />][linkedin]
+[<img align="left" alt="instagram | Instagram" width="22px" src="https://www.freepnglogos.com/uploads/new-instagram-logo-with-transparent-background-9.png" />][instagram]
 
 <br />
 
