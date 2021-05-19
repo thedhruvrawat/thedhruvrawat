@@ -36,7 +36,7 @@
 
 ## 🏆 My Github stats
 
-<img alt="Github Stats" align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=thedhruvrawat&show_icons=true&theme=algolia" />
+<img alt="Github Stats" align="left" src="https://github-readme-stats.vercel.app/api?username=thedhruvrawat&show_icons=true&theme=algolia" />
 <img alt="Top Langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedhruvrawat&theme=algolia" />
 
 [website]: https://thedhruvrawat.github.io
