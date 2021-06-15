@@ -10,7 +10,7 @@
 
 ## 🌐 Connect with me
 
-[<img align="left" alt="website" width="22px" src="https://freepikpsd.com/wp-content/uploads/2019/10/website-icon-png-blue-1-Transparent-Images.png"/>][website]
+[<img align="left" alt="website" width="22px" src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-14.png"/>][website]
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" />][linkedin]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://www.freepnglogos.com/uploads/new-instagram-logo-with-transparent-background-9.png" />][instagram]
 
