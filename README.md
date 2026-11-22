@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/thedhruvrawat">LinkedIn</a>
 </p>
 
-Hi! I'm Dhruv. I am a Masters student in Computer Science at the **University of Michigan, Ann Arbor**. My research interests sit at the seam of distributed systems and machine learning. Previously, I have worked as a software engineer at *Yugabyte* and as a quantitative researcher at *Nomura Global Markets*.
+Hi! I'm Dhruv. I am a Masters student in Computer Science at the **University of Michigan, Ann Arbor**, where I am a member of <a href="https://orderlab.io">OrderLab</a>, working with <a href="https://web.eecs.umich.edu/~ryanph/">Prof. Ryan Huang</a> on failure recovery for large-scale LLM training. My research interests sit at the seam of distributed systems and machine learning. Previously, I have worked as a software engineer at *Yugabyte* and as a quantitative researcher at *Nomura Global Markets*.
 
 I studied *Computer Science* and *Economics* at <a href="https://www.bits-pilani.ac.in/pilani/">BITS Pilani</a>, where I spent two years in the **Advanced Data and Parallel Technologies (ADaPT) Lab**, mentored by <a href="https://www.bits-pilani.ac.in/pilani/jagat-sesh-challa/">Dr. Jagat Sesh Challa</a>.
 
@@ -14,13 +14,13 @@ I studied *Computer Science* and *Economics* at <a href="https://www.bits-pilani
 
 ### Research Interests
 
-* **Distributed Training Systems**
+* **Distributed Training Systems and Fault Tolerance**
 
 * **Inference and Serving Systems**
 
 * **Compilers, Kernels, and Model Compression**
 
-* **Compound AI Systems**
+* **Compound AI and Agentic Systems**
 
 ---
 
@@ -34,5 +34,5 @@ I studied *Computer Science* and *Economics* at <a href="https://www.bits-pilani
 ---
 
 <p align="center">
-  <small>Last updated: August 2026</small>
+  <small>Last updated: November 2026</small>
 </p>
